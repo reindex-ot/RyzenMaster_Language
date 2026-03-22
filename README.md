@@ -1,3 +1,5 @@
+# Ryzen Master Localization Repository
+
 **Language:** [English](#english) | [日本語](#japanese)
 
 ---
