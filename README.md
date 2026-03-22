@@ -8,7 +8,7 @@
 ## English
 
 ### What is this repository?
-This repository is dedicated to simplifying the multi-language localization of **AMD Ryzen Master**, AMD's official overclocking utility. Currently, Ryzen Master officially supports only English, German, French, and Simplified Chinese, which can be a barrier for many users.
+This repository is dedicated to simplifying the multi-language localization of [**AMD Ryzen Master**](https://www.amd.com/en/products/software/ryzen-master.html), AMD's official overclocking utility. Currently, Ryzen Master officially supports only English, German, French, and Simplified Chinese, which can be a barrier for many users.
 
 This project is for those who want to take localization into their own hands and enjoy using the tool comfortably in their native language.
 
@@ -37,7 +37,7 @@ If you need to revert a compiled file, you can open a **.qm** file directly in *
 ## 日本語
 
 ### このリポジトリはなに?
-このリポジトリは AMD が公開しているオーバークロックツール、**Ryzen Master** の多言語対応を容易にするためのリポジトリです。現在の Ryzen Master は英語、ドイツ語、フランス語、中国語 (簡体字) のみ対応となっており、ユーザーフレンドリーとは言えない状態です。
+このリポジトリは AMD が公開しているオーバークロックツール、[**Ryzen Master**](https://www.amd.com/ja/products/software/ryzen-master.html) の多言語対応を容易にするためのリポジトリです。現在の Ryzen Master は英語、ドイツ語、フランス語、中国語 (簡体字) のみ対応となっており、ユーザーフレンドリーとは言えない状態です。
 
 それならば、自前でローカライズを行い、母国の言語で気軽に使える状態にしてしまおうと思う方向けのリポジトリです。
 
